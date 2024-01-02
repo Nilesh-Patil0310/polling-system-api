@@ -1,0 +1,26 @@
+{
+  "name": "polling-system-api",
+  "version": "1.0.0",
+  "description": "Crete a polling system application to for questions and vote",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nilesh Patil",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nilesh-Patil0310/polling-system-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nilesh-Patil0310/polling-system-api/issues"
+  },
+  "homepage": "https://github.com/Nilesh-Patil0310/polling-system-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
